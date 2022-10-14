@@ -6,9 +6,6 @@
 I am presently pursuing my Bachelor's degree in Civil Engineering at Malaviya National Institute of Technology Jaipur.   
 A technology enthusiast. 
 
-
-### Key Features:
-
 - Web Developer.
 - Intrested in Ethical Hacking.
 - learning Python.
