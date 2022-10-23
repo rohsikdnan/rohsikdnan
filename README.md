@@ -1,9 +1,9 @@
-## Hello, I'm [Nandkishor Kumawat!](https://www.linkedin.com/in/rohsikdnan) 
+## Hello, I'm [Nandkishor Kumawat](https://www.linkedin.com/in/rohsikdnan) 
     
 
 ## About:
 
-I am presently pursuing my Bachelor's degree in Civil Engineering at Malaviya National Institute of Technology Jaipur.   
+I'm presently pursuing my Bachelor's degree in Civil Engineering at Malaviya National Institute of Technology Jaipur.   
 A technology enthusiast. 
 
 - Web Developer.
